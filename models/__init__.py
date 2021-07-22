@@ -1,0 +1,11 @@
+from models.CNN import Classifier as CNN
+from models.CNN_att import Classifier as CNN_att
+from models.CNN_capsule import Classifier as CNN_capsule
+from models.CNN_heinsen_capsule import Classifier as CNN_heinsen_capsule
+from models.CNN_DSA import Classifier as CNN_DSA
+from models.CNN_DSA_global import Classifier as CNN_DSA_global
+from models.CNN_PCaps import Classifier as CNN_PCaps
+from models.CNN_custom import Classifier as CNN_custom
+from models.CNN_custom_global import Classifier as CNN_custom_global
+from models.CNN_custom_alpha_ablation import Classifier as CNN_custom_alpha_ablation
+from models.CNN_custom2 import Classifier as CNN_custom2
