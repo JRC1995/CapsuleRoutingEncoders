@@ -3,7 +3,7 @@
 [Project Report link](https://github.com/JRC1995/CapsuleRoutingEncoders/blob/main/CS_521_Project_report.pdf)
 
 #### Abstract:
-In this work, we study and compare multiple capsule routing algo-rithms for text classification including dynamic routing, Heinsenrouting, and capsule-routing inspired attention-based sentence en-coding techniques like dynamic self-attention. Further, similar tosome works in computer vision, we do an ablation test of the cap-sule network where we remove the routing algorithm itself. Weanalyze the theoretical connection between attention and capsulerouting, and contrast the two ways of normalizing the routingweights. Finally, we present a new way to do capsule routing, orrather iterative refinement, using a richer attention function tomeasure agreement among output and input capsules and withhighway connections in between iterations
+In this work, we study and compare multiple capsule routing algorithms for text classification including dynamic routing, Heinsen routing, and capsule-routing inspired attention-based sentence encoding techniques like dynamic self-attention. Further, similar to some works in computer vision, we do an ablation test of the capsule network where we remove the routing algorithm itself. We analyze the theoretical connection between attention and capsule routing, and contrast the two ways of normalizing the routing weights. Finally, we present a new way to do capsule routing, or rather iterative refinement, using a richer attention function to measure agreement among output and input capsules and with highway connections in between iterations.
 
 Code from the final project of the course CS521: Stastitical Natural Language Processing. The code was created around 2020 Quarter 1. 
 
